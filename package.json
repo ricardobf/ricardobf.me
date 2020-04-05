@@ -1,0 +1,9 @@
+{
+  "name": "ricardobf",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "repository": "https://github.com/ricardobf/ricardobf.git",
+  "author": "Ricardo Barbosa",
+  "license": "MIT"
+}
