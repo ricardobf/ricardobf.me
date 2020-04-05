@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/ricardobf/ricardobf.git",
   "author": "Ricardo Barbosa",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/preset-env": "^7.9.0"
+  }
 }
