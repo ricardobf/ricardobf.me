@@ -70,7 +70,7 @@ html {
   padding-left: 10px;
 }
 #title span {
-  background: -webkit-linear-gradient(white, #ffffff);
+  background: white;
   -webkit-background-clip: text;
   -webkit-text-fill-color: white;
   color: white
