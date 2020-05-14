@@ -1,4 +1,4 @@
-# Ricardo Barbosa - Minimal Portfolio
+# Ricardo Barbosa - Minimalist Portfolio
 
 Simple single page portfolio.
 
