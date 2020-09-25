@@ -2,4 +2,4 @@
 
 Simple single page portfolio.
 
-http://ricardobf.github.io/
+http://ricardobf.me
