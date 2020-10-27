@@ -29,7 +29,16 @@ Os parâmetros de referência da população incluíram: gênero por idade, etni
 As ocupações STEM incluíram as categorias de trabalho da computação e matemática, arquitetura e engenharia, vida e ciências físicas, médicos, outros profissionais de saúde, tecnólogos e técnicos de saúde, e professores especializados em assuntos tecnológicos.
 
 
-## Gráfico 1
+## TODO Título Gráfico 1
 
+{% include Homens.html %}
+
+
+## TODO Título Gráfico 2
+
+{% include Mulheres.html %}
+
+
+## TODO Título Gráfico 3
 
 {% include teste1.html %}
