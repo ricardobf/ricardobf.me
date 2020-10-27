@@ -31,7 +31,7 @@ As ocupações STEM incluíram as categorias de trabalho da computação e matem
 
 ## TODO Título Gráfico 1
 
-{% include Homens.html %}{% include Mulheres.html %}
+{% include Homens.html %}|{% include Mulheres.html %}
 
 
 ## TODO Título Gráfico 2
