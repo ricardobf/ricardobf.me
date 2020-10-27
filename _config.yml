@@ -1,5 +1,12 @@
-title: "Desigualdade de gênero e de etnia na área de tecnologia"
-description: Mercado de trabalho americano.
+title: "DESIGUALDADE DE GÊNERO E ETNIA NA ÁREA DE TECNOLOGIA"
+description: "Mercado de trabalho americano.
+Integrantes:
+
+- Igor Henrique
+- Jessica Sena
+- Ricardo Barbosa"
 show_downloads: false
 google_analytics:
+github:
+  is_project_page: false
 theme: jekyll-theme-cayman

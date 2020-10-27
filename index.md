@@ -2,11 +2,6 @@
 layout: default
 ---
 
-Integrantes:
-
-- Igor Henrique
-- Jessica Sena
-- Ricardo Barbosa
 
 ## A Motivação
 
