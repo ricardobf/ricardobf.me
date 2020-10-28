@@ -36,19 +36,14 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 {% include Mulheres.html %}
 
-
 ## TODO Título Gráfico 3
-
-{% include teste1.html %}
-
-## TODO Título Gráfico 4
 
 {% include treemap.html %}
 
-## TODO Título Gráfico 5
+## TODO Título Gráfico 4
 
 {% include faixa_salarial.html %}
 
-## TODO Título Gráfico 6
+## TODO Título Gráfico 5
 
 {% include media_salarial.html %}
