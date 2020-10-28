@@ -51,3 +51,7 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 
 ![Média Salário Anual em Dólares](https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/ultimo.png?raw=true)
+
+<p align="center">
+  <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/ultimo.png?raw=true">
+</p>
