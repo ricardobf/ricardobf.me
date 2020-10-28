@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## A Motivação
+Motivação:
 
 - Verificar o funcionamento do mercado de trabalho nas áreas das ciências, tecnologia, engenharia e matemática (STEM - science, technology, engineering, math);
 - Analisar as desigualdades em relação ao gênero e etnia;
