@@ -49,6 +49,7 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
   <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/STEM2.png?raw=true">
 </p>
 
+
 ## TODO Título Gráfico 4
 
 {% include treemap.html %}
