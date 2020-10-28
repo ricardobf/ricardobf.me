@@ -36,19 +36,20 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 <br/><br/><br/><br/>
 
 
-## Assédio Sexual no Mercado de Trabalho (USA)
-
-<br/><br/>
-<p align="center">
-  <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/STEM1.png?raw=true">
-</p>
-<br/><br/>
-
 ## Discriminação no Mercado de Trabalho (USA)
 
 <br/><br/>
 <p align="center">
   <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/STEM2.png?raw=true">
+</p>
+<br/><br/>
+
+
+## Assédio Sexual no Mercado de Trabalho (USA)
+
+<br/><br/>
+<p align="center">
+  <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/STEM1.png?raw=true">
 </p>
 <br/><br/>
 
