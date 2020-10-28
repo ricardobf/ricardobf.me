@@ -6,7 +6,7 @@ O objetivo é compilar os dados das 220 perguntas realizadas para 4914 pessoas e
 
 Esse trabalho é relevante para compreender e enxergar mais claramente a situação das minorias no mercado de trabalho.
 
-O resultado esperado com o trabalho é usar visualizações para fazer um estudo do perfil social, racial e de gênero em áreas da STEAM, e conscientizar as pessoas da importância da responsabilidade social, diversidade e inclusão na força de trabalho.
+O resultado esperado com o trabalho é usar visualizações para fazer um estudo do perfil social, racial e de gênero em áreas da STEM, e conscientizar as pessoas da importância da responsabilidade social, diversidade e inclusão na força de trabalho.
 
 ## Motivação
 
