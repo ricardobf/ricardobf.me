@@ -59,19 +59,22 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 ## Distribuição Salarial Anual entre Homens e Mulheres em STEM
 
+<br/><br/>
 {% include faixa_salarial.html %}
 
 ## Média Salarial Anual entre Homens e Mulheres em STEM
 
+<br/><br/>
 {% include media_salarial.html %}
 
 ## Média Salarial Anual Separados em Gênero e Etnia
 
+<br/><br/>
 {% include media_salario_dol.html %}
 
 ### Opinião dos Entrevistados para Falta de Mulheres, Negros e Hispânicos em STEM
 
-
+<br/><br/>
 <p align="center">
   <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/ultimo.png?raw=true">
 </p>
