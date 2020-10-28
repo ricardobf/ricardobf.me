@@ -2,21 +2,19 @@
 layout: default
 ---
 
+O objetivo é compilar os dados das 220 perguntas realizadas para 4914 pessoas, e gerar visualizações para o conhecimento dessas informações.
 
-Motivação:
+Esse trabalho é relevante para compreender e enxergar mais claramente a situação das minorias no mercado de trabalho.
+
+O resultado esperado com o trabalho é usar visualizações para fazer um estudo do perfil social, racial e de gênero em áreas da STEAM, e conscientizar as pessoas da importância da responsabilidade social, diversidade e inclusão na força de trabalho.
+
+## Motivação
 
 - Verificar o funcionamento do mercado de trabalho nas áreas das ciências, tecnologia, engenharia e matemática (STEM - science, technology, engineering, math);
 - Analisar as desigualdades em relação ao gênero e etnia;
 - Destacar a situação das minorias;
 - Analisar a perspectiva de solução.
 
-## O Problema
-
-O objetivo é compilar os dados das 220 perguntas realizadas para 4914 pessoas, e gerar visualizações para o conhecimento dessas informações.
-
-Esse trabalho é relevante para compreender e enxergar mais claramente a situação das minorias no mercado de trabalho.
-
-O resultado esperado com o trabalho é usar visualizações para fazer um estudo do perfil social, racial e de gênero em áreas da STEAM, e conscientizar as pessoas da importância da responsabilidade social, diversidade e inclusão na força de trabalho.
 
 ## Os Dados
 
