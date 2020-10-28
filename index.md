@@ -65,11 +65,11 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 {% include media_salarial.html %}
 
-## TODO Título Gráfico 7
+## Média Salarial Anual Separados em Gênero e Etnia
 
 {% include media_salario_dol.html %}
 
-### TODO Título Gráfico 8
+### Opinião dos Entrevistados para Falta de Mulheres, Negros e Hispânicos em STEM
 
 
 <p align="center">
