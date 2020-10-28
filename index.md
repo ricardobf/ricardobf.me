@@ -44,7 +44,7 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 ## TODO Título Gráfico 6
 
-{% include media_salaria_dol.html %}
+{% include media_salario_dol.html %}
 
 ### TODO Título Gráfico 7
 
