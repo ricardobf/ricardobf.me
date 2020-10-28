@@ -28,7 +28,7 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 ## TODO Título Gráfico 1 e 2
 
-![Média Salário Anual em Dólares](https://guides.github.com/activities/hello-world/branching.png)
+![Grafico1](https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/graficos_juntos.png)
 
 ## TODO Título Gráfico 3
 
@@ -48,4 +48,4 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 ### TODO Título Gráfico 7
 
-![Média Salário Anual em Dólares](https://guides.github.com/activities/hello-world/branching.png)
+![Média Salário Anual em Dólares](https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/ultimo.png)
