@@ -26,30 +26,46 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 - As ocupações STEM incluíram as categorias de trabalho da computação e matemática, arquitetura e engenharia, vida e ciências físicas, médicos, outros profissionais de saúde, tecnólogos e técnicos de saúde, e professores especializados em assuntos tecnológicos.
 
-## TODO Título Gráfico 1 e 2
+## Discriminação de Gênero no Ambiente de Trabalho
 
 
 <p align="center">
   <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/graficos_juntos.png?raw=true">
 </p>
 
-## Discriminação de Gênero no Ambiente de Trabalho
 
-{% include treemap.html %}
+## TODO Título Gráfico 2
+
+
+<p align="center">
+  <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/STEM1.png?raw=true">
+</p>
+
+
+## TODO Título Gráfico 3
+
+
+<p align="center">
+  <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/STEM2.png?raw=true">
+</p>
 
 ## TODO Título Gráfico 4
 
-{% include faixa_salarial.html %}
+{% include treemap.html %}
 
 ## TODO Título Gráfico 5
 
-{% include media_salarial.html %}
+{% include faixa_salarial.html %}
 
 ## TODO Título Gráfico 6
 
+{% include media_salarial.html %}
+
+## TODO Título Gráfico 7
+
 {% include media_salario_dol.html %}
 
-### TODO Título Gráfico 7
+### TODO Título Gráfico 8
 
 
 <p align="center">
