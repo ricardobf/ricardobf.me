@@ -51,4 +51,4 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 ## TODO Título Gráfico 6
 
-{% include teste1.html %}
+{% include media_salarial.html %}
