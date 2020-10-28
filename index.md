@@ -26,15 +26,9 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 - As ocupações STEM incluíram as categorias de trabalho da computação e matemática, arquitetura e engenharia, vida e ciências físicas, médicos, outros profissionais de saúde, tecnólogos e técnicos de saúde, e professores especializados em assuntos tecnológicos.
 
+## TODO Título Gráfico 1 e 2
 
-## TODO Título Gráfico 1
-
-{% include Homens.html %}
-
-
-## TODO Título Gráfico 2
-
-{% include Mulheres.html %}
+![Média Salário Anual em Dólares](https://guides.github.com/activities/hello-world/branching.png)
 
 ## TODO Título Gráfico 3
 
