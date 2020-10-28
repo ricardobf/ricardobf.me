@@ -29,9 +29,11 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 ## TODO Título Gráfico 1 e 2
 
 
-![Grafico1](https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/graficos_juntos.png?raw=true)
+<p align="center">
+  <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/graficos_juntos.png?raw=true">
+</p>
 
-## TODO Título Gráfico 3
+## Discriminação de Gênero no Ambiente de Trabalho
 
 {% include treemap.html %}
 
@@ -48,6 +50,7 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 {% include media_salario_dol.html %}
 
 ### TODO Título Gráfico 7
+
 
 <p align="center">
   <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/ultimo.png?raw=true">
