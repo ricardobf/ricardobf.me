@@ -61,18 +61,21 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 <br/><br/>
 {% include faixa_salarial.html %}
+<br/><br/>
 
 ## Média Salarial Anual entre Homens e Mulheres em STEM
 
 <br/><br/>
 {% include media_salarial.html %}
+<br/><br/>
 
 ## Média Salarial Anual Separados em Gênero e Etnia
 
 <br/><br/>
 {% include media_salario_dol.html %}
+<br/><br/>
 
-### Opinião dos Entrevistados para Falta de Mulheres, Negros e Hispânicos em STEM
+## Opinião dos Entrevistados para Falta de Mulheres, Negros e Hispânicos em STEM
 
 <br/><br/>
 <p align="center">
