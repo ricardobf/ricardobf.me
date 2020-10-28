@@ -29,7 +29,7 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 ## Discriminação de Gênero no Ambiente de Trabalho
 
-
+<br/><br/>
 <p align="center">
   <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/graficos_juntos.png?raw=true">
 </p>
@@ -38,30 +38,30 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 ## Assédio Sexual no Mercado de Trabalho (USA)
 
-
+<br/><br/>
 <p align="center">
   <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/STEM1.png?raw=true">
 </p>
-<br/><br/><br/><br/>
+<br/><br/>
 
 ## TODO Título Gráfico 3
 
-
+<br/><br/>
 <p align="center">
   <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/STEM2.png?raw=true">
 </p>
-<br/><br/><br/><br/>
+<br/><br/>
 
 
 ## Distribuição de Força de Trabalho em STEM
 
 {% include treemap.html %}
 
-## TODO Título Gráfico 5
+## Distribuição Salarial Anual entre Homens e Mulheres em STEM
 
 {% include faixa_salarial.html %}
 
-## TODO Título Gráfico 6
+## Média Salarial Anual entre Homens e Mulheres em STEM
 
 {% include media_salarial.html %}
 
