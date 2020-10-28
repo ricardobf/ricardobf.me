@@ -44,7 +44,7 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 </p>
 <br/><br/>
 
-## TODO Título Gráfico 3
+## Discriminação no Mercado de Trabalho (USA)
 
 <br/><br/>
 <p align="center">
