@@ -26,21 +26,23 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 
 - As ocupações STEM incluíram as categorias de trabalho da computação e matemática, arquitetura e engenharia, vida e ciências físicas, médicos, outros profissionais de saúde, tecnólogos e técnicos de saúde, e professores especializados em assuntos tecnológicos.
 
+
 ## Discriminação de Gênero no Ambiente de Trabalho
 
 
 <p align="center">
   <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/graficos_juntos.png?raw=true">
 </p>
+<br/><br/><br/><br/>
 
 
-## TODO Título Gráfico 2
+## Assédio Sexual no Mercado de Trabalho (USA)
 
 
 <p align="center">
   <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/STEM1.png?raw=true">
 </p>
-
+<br/><br/><br/><br/>
 
 ## TODO Título Gráfico 3
 
@@ -48,9 +50,10 @@ O resultado esperado com o trabalho é usar visualizações para fazer um estudo
 <p align="center">
   <img src="https://github.com/ricardobf/ricardobf.me/blob/visualizacao_de_dados/trabalho_final/_includes/STEM2.png?raw=true">
 </p>
+<br/><br/><br/><br/>
 
 
-## TODO Título Gráfico 4
+## Distribuição de Força de Trabalho em STEM
 
 {% include treemap.html %}
 
